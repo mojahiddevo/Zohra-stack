@@ -8,6 +8,7 @@ export default function Main() {
         href="/login"
         className="text-3xl"
       >Login</Link>
+      <Link href="/sign-up" className="text-3xl">Sign Up</Link>
     </div>
   );
 }
