@@ -3,7 +3,7 @@
 import { LoginSchema, SignUpSchema } from "@/app/schemas/auth";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { DarkToggle } from "@/components/ui/darkToggle";
+import { DarkToggle } from "@/components/ui/themeToggle";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
